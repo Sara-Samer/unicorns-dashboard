@@ -6,3 +6,6 @@ In business, a unicorn is a privately held startup company valued at over US$1 b
 - what are the feilds that produce most unicorn companies
 - who are the top 10 investors (in general and in each service feild)
 - unicorn companies growth rate over the years
+
+## Dashboard Screenshot
+![alt text](https://github.com/Sara-Samer/unicorns-dashboard/blob/main/dashboard.jpeg?raw=true)
